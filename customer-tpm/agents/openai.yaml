@@ -1,0 +1,4 @@
+interface:
+  display_name: "Customer TPM"
+  short_description: "Create evidence-backed customer execution health"
+  default_prompt: "Use $customer-tpm to generate a current Execution Health report for this customer."
